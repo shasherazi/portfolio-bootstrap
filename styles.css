@@ -1,0 +1,13 @@
+.navigation {
+  background-color:  #3E3C3C !important;
+}
+
+.headline {
+  background-image: url(./images/headline-background.svg);
+  background-position: bottom center;
+  background-repeat: no-repeat;
+}
+
+.headline-section-heading {
+  color: #F55800;
+}
