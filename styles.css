@@ -15,12 +15,12 @@
   color: #f55800;
 }
 
-.about {
-  background-color: #262626;
+.about-section-text {
+  
   background-image: url(./images/aboutBackground.svg);
   background-repeat: no-repeat;
   background-size: contain;
-  background-position: center right;
+  background-position: bottom right;
 }
 
 .about-section-text > h2 {
@@ -29,4 +29,8 @@
 
 .symbol {
   color: #f55800;
+}
+
+.about {
+  background-color: #262626;
 }
