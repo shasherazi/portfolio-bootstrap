@@ -14,3 +14,19 @@
 .headline-section-heading {
   color: #f55800;
 }
+
+.about {
+  background-color: #262626;
+  background-image: url(./images/aboutBackground.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center right;
+}
+
+.about-section-text > h2 {
+  color: #f55800;
+}
+
+.symbol {
+  color: #f55800;
+}
