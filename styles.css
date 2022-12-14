@@ -1,13 +1,16 @@
-.navigation {
-  background-color:  #3E3C3C !important;
+.navbar {
+  background-color: #3e3c3c;
 }
 
 .headline {
   background-image: url(./images/headline-background.svg);
-  background-position: bottom center;
+  background-position: bottom right;
   background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #1c1a19;
+  height: calc(100vh - 56px);
 }
 
 .headline-section-heading {
-  color: #F55800;
+  color: #f55800;
 }
